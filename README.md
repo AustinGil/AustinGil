@@ -10,7 +10,7 @@ Here's some of the cool stuff I'm working on:
 
 🎙 [The Function Call](https://thefncall.com): A fun podcast and livestream all about web development.
 
-🍴 [Vuetensils](https://vuetensils.com/)]: A naked component library for folks that care about accessibility, performance, and custom design.
+🍴 [Vuetensils](https://vuetensils.com/): A naked component library for folks that care about accessibility, performance, and custom design.
 
 🌱 [bedrocss](https://bedrocss.austingil.com/): A classless CSS library that's modern, lightweight, and easy to modify so you can start your projects on a solid foundation.
 
