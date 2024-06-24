@@ -2,7 +2,7 @@
 
 ### I help organizations create fast, secure, accessible websites for their customers.
 
-In my free time I write articles, create open-source projects like Vuetensils and Particles CSS, live stream on YouTube and Twitch, host The Function Call podcast, and speak at events.
+In my free time I write articles
  
 <h4>Let's connect: 
 <a href="https://twitter.com/heyAustinGil" target="blank">Twitter <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stegosource" height="20" width="20" style="vertical-align: inherit;" /></a> | 
