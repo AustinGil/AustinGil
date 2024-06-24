@@ -3,20 +3,6 @@
 ### I help organizations create fast, secure, accessible websites for their customers.
 
 In my free time I write articles, create open-source projects like Vuetensils and Particles CSS, live stream on YouTube and Twitch, host The Function Call podcast, and speak at events.
-
-Here's some of the cool stuff I'm working on:
-
-📝 [austingil.com](https://austingil.com): My personal blog where I share knowledge about web development and beyond.
-
-🎙 [The Function Call](https://thefncall.com): A fun podcast and livestream all about web development.
-
-🍴 [Vuetensils](https://vuetensils.com/): A naked component library for folks that care about accessibility, performance, and custom design.
-
-🌱 [bedrocss](https://bedrocss.austingil.com/): A classless CSS library that's modern, lightweight, and easy to modify so you can start your projects on a solid foundation.
-
-👓 [Style Check](https://style-check.austingil.com/): A tool to help developers audit the impact of their CSS on plain HTML.
-
-♦ [Carbon Grid](https://austingil.github.io/carbon-grid/): A simple, lightweight, responsive CSS grid system built on flexbox.
  
 <h4>Let's connect: 
 <a href="https://twitter.com/heyAustinGil" target="blank">Twitter <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stegosource" height="20" width="20" style="vertical-align: inherit;" /></a> | 
